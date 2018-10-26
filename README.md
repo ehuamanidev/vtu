@@ -15,3 +15,5 @@
     * Angular
     * Bootstrap
     * Typescript
+
+* Commits de la aplicación
