@@ -1,4 +1,4 @@
-# Ventanilla Única Tramite
+# Ventanilla Única de Tramite
 ### Version 0.1
 
 > Capacitación de programación Java Web
